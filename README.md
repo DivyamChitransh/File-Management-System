@@ -109,7 +109,7 @@ No server setup is required since this is a **pure frontend project**.
 
 ## 📁 Folder Categories
 
-![Folders](./folder.png)
+![Folders]()
 
 ---
 
@@ -127,7 +127,7 @@ No server setup is required since this is a **pure frontend project**.
 
 ## 🗑️ Bin Section
 
-![Bin](./bin.png)
+![Bin](./File_Management_System/bin.png)
 
 ---
 
