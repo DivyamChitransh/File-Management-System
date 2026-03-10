@@ -80,6 +80,9 @@ The project demonstrates **DOM manipulation, local storage usage, and interactiv
 
 # 📂 Project Structure
 
+# 📂 Project Structure
+
+```
 file-organizer-system/
 │
 ├── index.html
@@ -87,6 +90,7 @@ file-organizer-system/
 ├── script.js
 │
 └── README.md
+```
 
 
 ---
