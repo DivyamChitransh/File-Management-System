@@ -80,8 +80,6 @@ The project demonstrates **DOM manipulation, local storage usage, and interactiv
 
 # 📂 Project Structure
 
-# 📂 Project Structure
-
 ```
 file-organizer-system/
 │
