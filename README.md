@@ -109,19 +109,19 @@ No server setup is required since this is a **pure frontend project**.
 
 ## 📁 Folder Categories
 
-![Folders]()
+![Folders](/File_Management_System/folder.png)
 
 ---
 
 ## 📄 Files Section
 
-![Files](./files.png)
+![Files](./File_Management_System/files.png)
 
 ---
 
 ## 🔍 Search Files Feature
 
-![Search](./search.png)
+![Search](./File_Management_System/search.png)
 
 ---
 
@@ -133,7 +133,7 @@ No server setup is required since this is a **pure frontend project**.
 
 ## ⚠️ Delete Confirmation Modal
 
-![Modal](./modal.png)
+![Modal](.//File_Management_System/modal.png)
 
 # 📸 Application UI
 
